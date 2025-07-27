@@ -14,7 +14,7 @@ $TOR_BROWSER_PATH --detach
 
 #open a terminal and use cd command
 #to go to the folder where usetor.sh file is located
-#enter chmod +x usetor
+#enter chmod +x usetor.sh
 #and rename usetor.sh to usetor
 #move usetor to /usr/local/bin/ folder
 #mv usetor /usr/local/bin/
