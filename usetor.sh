@@ -12,7 +12,7 @@ TOR_BROWSER_PATH="/home/cindy/tor-browser/Browser/start-tor-browser"
 
 $TOR_BROWSER_PATH --detach
 
-#open a terminal and use cd commando
+#open a terminal and use cd command
 #to go to the folder where usetor.sh file is located
 #enter chmod +x usetor
 #and rename usetor.sh to usetor
